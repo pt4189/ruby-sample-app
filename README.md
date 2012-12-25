@@ -1,3 +1,2 @@
 ruby-sample-app
 ===============
-Hey
